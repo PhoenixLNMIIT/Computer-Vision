@@ -1,2 +1,11 @@
 # Computer-Vision
-Computer Vision Subdivision of Phoenix works on Image processing and machine learning
+
+## Projects
+* Colour Detector
+* Live Edge Detector
+* Object Tracker
+* Distance measurment
+* Text Recognition
+* Handwritten Text Recognition
+* Object Detection
+
